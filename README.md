@@ -19,11 +19,15 @@ This project utilizes a variety of Python libraries to collect, process, and ana
 
 ## Repository Files
 
+- `Boston_exploration.ipynb`: The Jupyter notebooks used for data cleaning, exploration, and analysis.
+- `README.md`: This file, providing an overview of the project and its contents.
+
+## Data Files from Kaggle
+
 - `listings.csv`: Contains the dataset of Boston's airbnb listings
 - `calendar.csv`: Data on property availability and price around Boston
 - `reviews.csv`: Data on customer reviews of Arbnb propertiies in Boston
-- `Boston_exploration.ipynb`: The Jupyter notebooks used for data cleaning, exploration, and analysis.
-- `README.md`: This file, providing an overview of the project and its contents.
+
 
 ## Summary of Results
 
@@ -33,5 +37,5 @@ This project utilizes a variety of Python libraries to collect, process, and ana
 
 ## Acknowledgements
 
-- Data sources: The data used in this project was provided by Kaggle
+- Data sources: The data used in this project was provided by Kaggle (https://www.kaggle.com/datasets/airbnb/boston?resource=download)
 - The project blog was also published on Medium (https://medium.com/@ivanmtrotsenko/would-you-like-to-visit-boston-a9426d197a6c)
